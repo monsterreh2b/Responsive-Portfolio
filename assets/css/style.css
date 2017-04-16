@@ -31,6 +31,7 @@ h1, h2{
 h1{
 	font-size: 2em;
 	font-weight: bold;
+
 }
 
 h3{
@@ -68,6 +69,10 @@ header{
 	color: #ffffff;
 	margin-top: 23px;
 	
+}
+
+.name a{
+	text-decoration: none;
 }
 
 .hvr-box-shadow-outset {
@@ -275,8 +280,20 @@ width: 220px;
 	background-image: url(../images/Boostrap_logo.svg)
 }
 
+#crystal{
+	background-image: url(../images/crystal-881078_640.jpg)
+}
 #trivia{
 	background-image: url(../images/27760064464_25bd62bc24.jpg)
+}
+
+#psychic{
+	background-image: url(../images/fortune-telling-1989579_960_720.jpg)
+
+}
+
+#construction{
+	background-image: url(../images/sign-34184_640.png)
 }
 
 #rock-paper{
