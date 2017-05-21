@@ -276,6 +276,7 @@ width: 220px;
 	left: 1px;
 }
 
+
 #hangman{
 	background-image: url(../images/Boostrap_logo.svg)
 }
@@ -323,6 +324,10 @@ width: 220px;
 
 #train{
 	background-image: url(../images/data4.jpg)
+}
+
+#getMeThere{
+	background-image: url(../images/back1.jpg)
 }
 
 .background{
