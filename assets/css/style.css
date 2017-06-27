@@ -330,6 +330,10 @@ width: 220px;
 	background-image: url(../images/back1.jpg)
 }
 
+#burger{
+	background-image: url(../images/backgroundy-min.png)
+}
+
 .background{
 	width: 220px;
 	height: 60px;
