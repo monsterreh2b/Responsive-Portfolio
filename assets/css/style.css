@@ -334,6 +334,10 @@ width: 220px;
 	background-image: url(../images/backgroundy-min.png)
 }
 
+#ConnActivities{
+	background-image: url(../images/ca.png)
+}
+
 .background{
 	width: 220px;
 	height: 60px;
